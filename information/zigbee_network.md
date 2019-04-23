@@ -31,4 +31,4 @@ The [CC2531 USB sniffer coordinator firmware](https://github.com/Koenkk/Z-Stack-
 
 However by adding routers to your network you can overcome the limit of 20 devices. This means that, e.g. a network of 1 coordinator, 4 routers and 50 end devices is possible.
 
-The number of childs that a router support differs per device! Therefore, the increased size of a network by adding a router is arbitrary.
+The number of children that a router supports differs per device! Therefore, the increased size of a network by adding a router is arbitrary.
